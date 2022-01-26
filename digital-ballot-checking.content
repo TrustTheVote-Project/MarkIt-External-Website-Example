@@ -2,9 +2,11 @@
     <header>
         <h1>Information about Digital Ballot Checking</h1>
     </header>
-    <p>Before you've finished using the mobile voter app, please save
-    the ballot tracking code. You can use it to ensure that your
-    returned ballot was received and to track the processing of your
-    ballot. It's as simple as typing the first few characters of your
-    ballot tracking code into a web form at TrackMyBallot.org. </p>
+    <p>In the process of using the Pelican County mobile voter app, if
+    you choose digital ballot return, you will be prompted with a
+    "ballot checking code" that you can use to check that your ballot
+    correctly recods the ballot selections you made with the app. If
+    you want to check your ballot, you need to go to the web site for
+    ballot verification, and enter your ballot checking code
+    there. The web site is VerifyMyBallot.gov</p>
 </section>
