@@ -2,5 +2,19 @@
     <header>
         <h1>Address Verification Requirement</h1>
     </header>
-    <p>No text yet.</p>
+    <p>Votes that are submitted via the mobile voting application
+    require a confirmation of your mailing and email address. Before
+    voting with the application, a 5-digit code will be sent to the
+    email address on record with your State that must be submitted
+    before continuing. If your email address is incorrect, please
+    update it using your State's official Voter Registration
+    website. Changes could take up to 24 hours to take effect.</p>
+
+    <p>Your mailing address is used to ensure your correct ballot
+    style is delivered and to ensure you are allowed to vote absentee
+    using the application with your local election office. If your
+    mailing address is incorrect, please update it using your State's
+    official Voter Registration Website. Changes could take up to 24
+    hours to take effect.
+    </p>
 </section>
