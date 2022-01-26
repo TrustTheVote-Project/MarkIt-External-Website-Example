@@ -1,0 +1,12 @@
+<section>
+    <header>
+        <h1>Benaloh Challenge</h1>
+    </header>
+    <p>This site is used to track ballots from the current election in
+    Pelican County. Please enter the first few character of your
+    ballot checking code, using the search box below. When you've
+    found your code, click the "Check Ballot" button. No private
+    information, including the contents of your ballot or selections,
+    will be available. [have a fake text entry field, and some "Check
+    Ballot" text that looks like a button but isn't.</p>
+</section>

@@ -1,0 +1,88 @@
+           <section>
+               <header>
+                   <h1>Frequently Asked Questions</h1>
+               </header>
+               <ul class="q-and-a">
+                   <li>
+                       <span class="question">Why am I bring prevented from submitting multiple
+                           ballots?</span>
+                       <span class="answer">Your county or State has elected to not allow the
+                           capability to resubmit ballots via their mobile voting application once an
+                           initial one is sent. If you believe this is an error, please don't hesitate
+                           to contact us: 304.558.6000 toll free 866.767.8683 email:
+                           Elections@wvsos.gov.</span>
+                   </li>
+
+                   <li>
+                       <span class="question">Can I still vote in person if I request or submit an
+                           absentee ballot?</span>
+                       <span class="answer">Yes! If you vote in person after requesting or submitting
+                           an absentee ballot, your absentee ballot is automatically disqualified. Only
+                           your in-person vote will count. You can either vote early or on Election
+                           Day. You do not need to bring your ballot with you.</span>
+                   </li>
+
+
+                   <li>
+                       <span class="question">Why do I need to confirm my email address?</span>
+                       <span class="answer">Votes that are submitted via the mobile voting application
+                           require a confirmation of your email address. Before voting with the
+                           application, a 5-digit code will be sent to the email address on record with
+                           your State that must be submitted before continuing. If your email address
+                           is incorrect, please update it using your State's official Voter
+                           Registration website. Changes could take up to 24 hours to take
+                           effect.</span>
+                   </li>
+
+                   <li>
+                       <span class="question">Why do I need to confirm my mailing address?</span>
+                       <span class="answer">Your mailing address is used to ensure your correct ballot
+                           style is delivered and to ensure you are allowed to vote absentee using the
+                           application with your local election office. If your mailing address is
+                           incorrect, please update it using your State's official Voter Registration
+                           Website. Changes could take up to 24 hours to take effect.</span>
+                   </li>
+
+                   <li>
+                       <span class="question">Why do I need to provide a signature?</span>
+                       <span class="answer">Ballots submitted via the mobile voting application are
+                           required to go through the same adjudication process as mail in ballots.
+                           This requires signature verification. Once your ballot is submitted, an
+                           election official will review your ballot to ensure your submitted signature
+                           matches your signatures on file with the State before it is counted. The
+                           State of "x" is required to notify the voter within "x" business days if
+                           their ballot is rejected and allow "x" days for remediation. Signature
+                           updates received after the allotted time will not be counted. </span>
+                   </li>
+
+                   <li>
+                       <span class="question">Why do I need a witness to submit my ballot?</span>
+                       <span class="answer">Your state has elected to require a witness signature to
+                           vote. Your witness may be required to also submit a valid form of
+                           identification. When you ballot is received by election officials, they will
+                           check the signature and any other required supporting identification
+                           documents sent by your witness before your vote is counted. If there is an
+                           issue with verifying your witness information, your ballot will not be
+                           counted. The State of "x" is required to notify the voter within "x"
+                           business days if their ballot is rejected and allow "x" days for
+                           remediation. Witness updates received after the allotted time will not be
+                           counted.</span>
+                   </li>
+
+                   <li>
+                       <span class="question">What is Ballot Checking?</span>
+                       <span class="answer">Part of having an end-to-end verifiable election is for a
+                           voter to be able to ensure the vote they cast is marked correctly. This is
+                           done via the VerifyMyBallot Site. Through this process, your digital ballot
+                           envelope will be invalidated and opened for your viewing. Once you have
+                           verified that your ballot is marked correctly you ballot will be resealed in
+                           new a digital envelope with a different ballot checking code. If your ballot
+                           is not marked correctly, you will be given the opportunity to make required
+                           changes. You can repeat this process as many times as you would like until
+                           you officially submit your ballot.</span>
+                   </li>
+               </ul>
+               <p>If your ballot choices do not match during your ballot test multiple times, please
+                   reach out to security@site.gov to request assistance. It is strongly recommended to
+                   use a separate device to check your ballot.</p>
+           </section>
