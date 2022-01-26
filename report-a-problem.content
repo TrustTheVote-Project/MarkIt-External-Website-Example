@@ -2,5 +2,23 @@
     <header>
         <h1>Report a Problem</h1>
     </header>
-    <p>No text yet</p>
+    <p>Technical issues can occur at any time, but we are here to
+    help! If you are having technical issues or are having
+    difficulties using the app, please follow the below network
+    troubleshooting tips. If you are still experiencing technical
+    issues, please reach out to the helpdesk: 304.558.6000 toll free
+    866.767.8683 email: Elections@wvsos.gov</p>
+
+    <div>
+      <h2>Troubleshooting Network Issues</h2>
+​
+      <p>If you receive a network or general error while attempting to vote, please follow these instructions:</p>
+      <ul>
+          <li>Ensure you are connected to wi-fi </li>
+          <li>Ensure you are on a network that can connect to the internet</li>
+          <li>Check to make sure your router is on and connected</li>
+          <li>Check that cables are properly seated in your router</li>
+          <li>Contact your ISP to check if there is an internet outage in your area</li>
+      </ul>
+    </div>
 </section>
