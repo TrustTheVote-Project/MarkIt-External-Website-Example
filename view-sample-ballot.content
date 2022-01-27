@@ -1,0 +1,15 @@
+<section>
+    <header>
+        <h1>Review Sample Ballot</h1>
+    </header>
+    <p>To view your sample ballot, click on the name of your Pelican
+    County precinct, and view the document in a PDF viewer or web
+    browser.</p>
+
+    <ul>
+        <li><a href="sample_ballot_bedrock.pdf">Bedrock Precinct</a></li>
+        <li><a href="sample_ballot_downtown.pdf">Downtown Precinct</a></li>
+        <li><a href="sample_ballot_port.pdf">Port Precinct</a></li>
+        <li><a href="sample_ballot_spacetown.pdf">Spacetown Precinct</a></li>
+    </ul>
+</section>
