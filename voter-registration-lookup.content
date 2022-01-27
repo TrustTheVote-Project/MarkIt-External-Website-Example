@@ -1,17 +1,14 @@
-<section>
-    <header>
-        <h1>Voter Registration Lookup</h1>
-    </header>
-    <p>If you are using the Pelican County mobile voter app, and
-    having trouble with the voter lookup, you can check your voter
-    registration record using State of Farallon Online Voter Services
-    site [last 4 words please an anchor for a link to the Farallon
-    VSP]. Please carefully check your current voter registration name
-    and address, as well as your email address. If you've changed your
-    name, or moved, or use a different email address, you will need to
-    use the Online Voter Services site to submit a request to update
-    your voter record. You will be able to use the mobile voter app
-    after the request has been processed by Pelican County Department
-    of Elections. If you've moved out of Pelican County, you are not
-    eligible to use the app.</p>
-</section>
+<section> <header> <h1>Voter Registration Lookup</h1> </header> <p>If
+    you are using the Pelican County mobile voter app, and having
+    trouble with the voter lookup, you can check your voter
+    registration record using the <a
+    href="http://vsp.demo.trustthevote.org/">State of Farallon Online
+    Voter Services site</a>. Please carefully check your current voter
+    registration name and address, as well as your email address. If
+    you've changed your name, or moved, or use a different email
+    address, you will need to use the Online Voter Services site to
+    submit a request to update your voter record. You will be able to
+    use the mobile voter app after the request has been processed by
+    Pelican County Department of Elections. If you've moved out of
+    Pelican County, you are not eligible to use the app.</p>
+    </section>

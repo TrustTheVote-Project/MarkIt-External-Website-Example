@@ -7,6 +7,13 @@
     ballot checking code, using the search box below. When you've
     found your code, click the "Check Ballot" button. No private
     information, including the contents of your ballot or selections,
-    will be available. [have a fake text entry field, and some "Check
-    Ballot" text that looks like a button but isn't.</p>
+    will be available.</p>
+
+    <form>
+        <label for="code">Enter the first few characters of your ballot-checking code: </label>
+        <input type="text" name="code" id="code" />
+        <br />
+        <input type="submit" value="Check Ballot" />
+    </form>
+    
 </section>
