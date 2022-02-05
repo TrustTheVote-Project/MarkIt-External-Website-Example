@@ -1,15 +1,16 @@
 <section>
     <header>
-        <h1>MarkIt App User Feedback</h1>
+        <h1>Voter App Feedback</h1>
     </header>
-    <p>Thank you for voting via the State of Farallon Mobile
-    Voting Application. Your voice is important to the democratic
-    process. If you would like, please complete this short survey to
-    review your experience voting from a mobile device! All reviews
-    will be read by a member of your local election jurisdiction. All
-    reviews are anonymous and cannot be linked to an individual
-    voter.</p>
 
+
+    <p>Thank you for voting via the Pelican County voter app. Your
+    voice is important to the democratic process. If you would like,
+    please complete this short survey to review your experience voting
+    from a mobile device! All reviews will be read by a member of your
+    local election jurisdiction. All reviews are anonymous and cannot
+    be linked to an individual voter. </p>
+​
     <ul>
         <li>Please rate your experience voting with the app.</li>
         <li>Please rate your experience authenticating with the voter registration database.</li>

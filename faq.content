@@ -1,88 +1,152 @@
-           <section>
-               <header>
-                   <h1>Frequently Asked Questions</h1>
-               </header>
-               <ul class="q-and-a">
-                   <li>
-                       <span class="question">Why am I bring prevented from submitting multiple
-                           ballots?</span>
-                       <span class="answer">Your county or State has elected to not allow the
-                           capability to resubmit ballots via their mobile voting application once an
-                           initial one is sent. If you believe this is an error, please don't hesitate
-                           to contact us: 304.558.6000 toll free 866.767.8683 email:
-                           Elections@wvsos.gov.</span>
-                   </li>
+<section>
+    <header>
+        <h1>Frequently Asked Questions</h1>
+    </header>
 
-                   <li>
-                       <span class="question">Can I still vote in person if I request or submit an
-                           absentee ballot?</span>
-                       <span class="answer">Yes! If you vote in person after requesting or submitting
-                           an absentee ballot, your absentee ballot is automatically disqualified. Only
-                           your in-person vote will count. You can either vote early or on Election
-                           Day. You do not need to bring your ballot with you.</span>
-                   </li>
+    <ul class="q-and-a">
+        <li>
+            <span class="question">Who do I contact for help with the
+            mobile voting app?</span>
+        
+            <span class="answer">Please contact the Pelican County
+            Department of Elections at: info@elections.pelican.fa.gov;
+            (101) 123-1234 or 42 Lighthouse Blvd, Maintop FA
+            01234</span>
+        </li>
 
+        <li>
+            <span class="question">Why am I being prevented from
+            submitting multiple ballots?</span>
 
-                   <li>
-                       <span class="question">Why do I need to confirm my email address?</span>
-                       <span class="answer">Votes that are submitted via the mobile voting application
-                           require a confirmation of your email address. Before voting with the
-                           application, a 5-digit code will be sent to the email address on record with
-                           your State that must be submitted before continuing. If your email address
-                           is incorrect, please update it using your State's official Voter
-                           Registration website. Changes could take up to 24 hours to take
-                           effect.</span>
-                   </li>
+            <span class="answer">Pelican County does not allow the
+            capability to resubmit ballots via their mobile voting
+            application once an initial one is sent. If you believe
+            this is an error, please don't hesitate to contact using
+            the contact info above. </span>
+        </li>
 
-                   <li>
-                       <span class="question">Why do I need to confirm my mailing address?</span>
-                       <span class="answer">Your mailing address is used to ensure your correct ballot
-                           style is delivered and to ensure you are allowed to vote absentee using the
-                           application with your local election office. If your mailing address is
-                           incorrect, please update it using your State's official Voter Registration
-                           Website. Changes could take up to 24 hours to take effect.</span>
-                   </li>
+        <li>
+            <span class="question">Can I still vote in person if I
+            request or submit an absentee ballot?</span>
 
-                   <li>
-                       <span class="question">Why do I need to provide a signature?</span>
-                       <span class="answer">Ballots submitted via the mobile voting application are
-                           required to go through the same adjudication process as mail in ballots.
-                           This requires signature verification. Once your ballot is submitted, an
-                           election official will review your ballot to ensure your submitted signature
-                           matches your signatures on file with the State before it is counted. The
-                           State of "x" is required to notify the voter within "x" business days if
-                           their ballot is rejected and allow "x" days for remediation. Signature
-                           updates received after the allotted time will not be counted. </span>
-                   </li>
+            <span class="answer">Yes! If you vote in person after
+            requesting or submitting an absentee ballot, your absentee
+            ballot is automatically disqualified. Only your in-person
+            vote will count. You can either vote early or on Election
+            Day. You do not need to bring your ballot with you.</span>
+        </li>
 
-                   <li>
-                       <span class="question">Why do I need a witness to submit my ballot?</span>
-                       <span class="answer">Your state has elected to require a witness signature to
-                           vote. Your witness may be required to also submit a valid form of
-                           identification. When you ballot is received by election officials, they will
-                           check the signature and any other required supporting identification
-                           documents sent by your witness before your vote is counted. If there is an
-                           issue with verifying your witness information, your ballot will not be
-                           counted. The State of "x" is required to notify the voter within "x"
-                           business days if their ballot is rejected and allow "x" days for
-                           remediation. Witness updates received after the allotted time will not be
-                           counted.</span>
-                   </li>
+        ​<li>
+            <span class="question">Why do I need to confirm my email
+            address?</span>
+            
+            <span class="answer">Ballots submitted via the the Pelican
+            County voter app must be matched to a current name,
+            residence address, and email address. Your current email
+            address is required to send you a one time access code as
+            part of the process of obtaining your digital ballot. If
+            you’ve changed your email address, you must also update
+            your voter registration record using the State of <a
+            href="http://farallon.gov/vsp">Farallon Online Voter
+            Services site</a>.  You will be able to use the mobile
+            voter app after the request has been processed by Pelican
+            County Department of Elections. Changes could take up to 2
+            business day to take effect. </span>
+        </li>
 
-                   <li>
-                       <span class="question">What is Ballot Checking?</span>
-                       <span class="answer">Part of having an end-to-end verifiable election is for a
-                           voter to be able to ensure the vote they cast is marked correctly. This is
-                           done via the VerifyMyBallot Site. Through this process, your digital ballot
-                           envelope will be invalidated and opened for your viewing. Once you have
-                           verified that your ballot is marked correctly you ballot will be resealed in
-                           new a digital envelope with a different ballot checking code. If your ballot
-                           is not marked correctly, you will be given the opportunity to make required
-                           changes. You can repeat this process as many times as you would like until
-                           you officially submit your ballot.</span>
-                   </li>
-               </ul>
-               <p>If your ballot choices do not match during your ballot test multiple times, please
-                   reach out to security@site.gov to request assistance. It is strongly recommended to
-                   use a separate device to check your ballot.</p>
-           </section>
+        <li>
+            <span class="question">Why do I need to confirm my residence
+            address?</span>
+
+            <span class="answer">Your residence address is used to
+            ensure that you get your correct ballot style. If your
+            voter registration residence address is incorrect, you
+            must also change your address in your voter registration
+            record using the State of <a
+            href="http://farallon.gov/vsp">Farallon Online Voter
+            Services site</a>.  You will be able to use the mobile
+            voter app after the request has been processed by Pelican
+            County Department of Elections. Changes could take up to 2
+            business day to take effect.</span>
+        </li>
+
+        <li>
+            <span class="question">Why do I need to provide a
+            signature?</span>
+
+            <span class="answer">Ballots submitted via the Pelican
+            County voter app are required to go through the same
+            absentee ballot verification process as paper mail in
+            ballots. This process requires signature
+            verification. Once your ballot is submitted, an election
+            official will review your signed voter affidavit to ensure
+            your submitted signature matches your signatures on file
+            with the State before it is counted. If the affidavit
+            signature does not match the signature on file, Pelican
+            County elections is required to notify you within 3
+            business days, and allow 10 days for you to update your
+            signature. Signature updates received after the allotted
+            time will not be counted. For more information contact
+            Pelican County Department of Elections:
+            info@elections.pelican.fa.gov; (101) 123-1234 or 42
+            Lighthouse Blvd, Maintop FA 01234</span>
+        </li>
+
+        <li>
+            <span class="question">Why do I need a witness to submit
+            my ballot?</span>
+
+            <span class="answer">Ballots submitted via the Pelican
+            County voter app are required to go through the same
+            absentee ballot verification process as paper mail in
+            ballots, which includes submitting a voter affidavit that
+            includes information on your witness to signing. This app
+            prepares the affidavit for you, based on the information
+            you provide, including information about your
+            witness.</span>
+        </li>
+
+        <li>
+            <span class="question">What is Ballot Checking?</span>
+            <div class="answer">
+                <p>In the process of using the Pelican County mobile
+                voter app, if you choose digital ballot return, you
+                will be prompted with a "ballot checking code" that
+                you can use to check that your ballot correctly
+                records the ballot selections you made with the
+                app. If you want to check your ballot, you need to go
+                to a web site for ballot verification, and enter your
+                ballot checking code there. The web site is
+                VerifyMyBallot.gov We strongly suggest that you access
+                VerifyMyBallot using a different device than the one
+                you’re using to run the voter app.</p>
+
+                <p>This ballot checking process enables you to verify
+                that your digital ballot’s contents match the ballot
+                choices that you made in this app. It’s part of
+                security method called “end-to-end verification” where
+                you can independently check up on the work that the
+                voter app to create a digital ballot for you. No
+                information about your identity is used, and your
+                ballot choices remain anonymous.</p>
+
+                <p>If you do the ballot check, and VerifyMyBallot
+                correctly shows you the ballot choices that you made
+                in the app, then you can proceed with digital ballot
+                return. The app will re-make your digital ballot so
+                that you can have the app send it for you. But you can
+                do a ballot check as many times as you like, before
+                sending.</p>
+
+                <p>However, if VerifyMyBallot does not correctly show
+                you the ballot choices that you made in the app, then
+                there may be a problem with app. Don’t complete the
+                digital ballot return process, but do contact Pelican
+                County Department of Elections. You can use the
+                contact information at the top of the FAQ, but your
+                primary contact should be
+                verify@elections.pelican.fa.gov</p>
+            </div>
+        </li>
+    </ul>
+</section>
