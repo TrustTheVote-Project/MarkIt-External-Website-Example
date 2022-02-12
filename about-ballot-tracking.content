@@ -5,12 +5,18 @@
 
     <p>In the process of using the Pelican County mobile voter app, if
     you choose digital ballot return, then you will be given a
-    "ballot tracking code" that you can use to track your ballot.
+    "ballot tracking code" that you can use to track your ballot, 
+    or share with others to help you track your ballot.
     Right away, you can check that your ballot was received and stored in the digital ballot box.
-    Later, you can check again to find the status of your ballot being approved for counting.
+    Later, you can check again to find out whether it has yet been
+    validated and approved for counting, or rejected. </p>
     
-    To track your ballot, you need to go to the web site for
-    ballot tracking, and enter your ballot checking code
+    <p> No personal information is available as part of ballot tracking. 
+    Although you can track a ballot, the identity of its voter is not available, 
+    and the content of the ballot is not available.</p>
+    
+    <p> To track your ballot, you need to go to the web site for
+    ballot tracking, and enter your ballot tracking code
     there.</p>
     
     <p> The web site is https://astro-miniweb.s3.amazonaws.com/digital-ballot-tracking.html </p>
