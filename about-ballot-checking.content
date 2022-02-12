@@ -9,6 +9,8 @@
     correctly recods the ballot selections you made with the app. If
     you want to check your ballot, you need to go to the web site for
     ballot verification, and enter your ballot checking code
-    there. The web site is VerifyMyBallot.gov.</p>
+    there.</p>
+    
+    <p> The web site is https://astro-miniweb.s3.amazonaws.com/about-checking-your-ballot.html </p>
     
 </section>
