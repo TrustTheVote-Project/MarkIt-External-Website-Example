@@ -1,12 +1,19 @@
 <section>
     <header>
-        <h1>Digital Ballot Checking</h1>
+        <h1>Checking Your Digital Ballot</h1>
     </header>
-    <p>In the process of using the Pelican County mobile voter app, if
-    you choose digital ballot return, you will be prompted with a
-    "ballot checking code" that you can use to check that your ballot
-    correctly records the ballot selections you made with the app. If
-    you want to check your ballot, you need to go to the web site for
-    ballot verification, and enter your ballot checking code
-    there. The web site is VerifyMyBallot.gov</p>
+    <p>This site is used to check digital ballots from the current election in
+    Pelican County. Please enter the first few characters of your
+    ballot checking code, using the search box below. When you've
+    found your code, click the "Check Ballot" button. No private
+    information, including the contents of your ballot or selections,
+    will be available.</p>
+
+    <form>
+        <label for="code">Enter the first few characters of your ballot-checking code: </label>
+        <input type="text" name="code" id="code" />
+        <br />
+        <input type="submit" value="Check Ballot" />
+    </form>
+    
 </section>
