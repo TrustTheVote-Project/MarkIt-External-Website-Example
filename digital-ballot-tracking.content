@@ -3,7 +3,7 @@
         <h1>Tracking Your Digital Ballot</h1>
     </header>
     <p>This site is used to track digital ballots from the current election in
-    Pelican County. Please enter the first few characters of your
+    Pelican County. Please enter the first few characters of a
     ballot tracking code, using the search box below. When you've
     found your code, click the "Track Ballot" button. </p>
     
@@ -12,7 +12,8 @@
     validated and approved for counting, or rejected.
     
     <p> No personal information is available as part of ballot tracking. 
-    Although you can track a ballot, the identity of its voter is not available.</p>
+    Although you can track a ballot, the identity of its voter is not available, 
+    and the content of the ballot is not available.</p>
 
     <form>
         <label for="code">Enter the first few characters of your ballot-tracking code: </label>
