@@ -5,11 +5,12 @@
     <p>This site is used to check digital ballots from the current election in
     Pelican County. Please enter the first few characters of your
     ballot checking code, using the search box below. When you've
-    found your code, click the "Check Ballot" button. </p>
+    found your code, click the "Check Ballot" button.
+    Then you will be shown the contents of yout ballot, to check that it
+    correctly records the ballot selections you made with the app. </p>
     
     <p> The ballot checking process is anonymous; no voter identity is available
     along with the ballot's content. </p>
-
 
     <form>
         <label for="code">Enter the first few characters of your ballot-checking code: </label>
