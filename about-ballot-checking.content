@@ -6,8 +6,16 @@
     <p>In the process of using the Pelican County mobile voter app, if
     you choose digital ballot return, you will be prompted with a
     "ballot checking code" that you can use to check that your ballot
-    correctly records the ballot selections you made with the app. If
-    you want to check your ballot, you need to go to the web site for
+    correctly records the ballot selections you made with the app. </p>
+    
+    <p> The ballot checking process is anonymous. 
+    Although a ballot checking code is used to expose the content of a 
+    sealed digital ballot for checking purposes, no voter identity is available
+    along with the ballot's content.
+    Following a successful ballot check the voter app will create a resealed
+    digital ballot that you can send, or choose to check again.
+    
+    <p> If you want to check your ballot, you need to go to the web site for
     ballot verification, and enter your ballot checking code
     there.</p>
     
