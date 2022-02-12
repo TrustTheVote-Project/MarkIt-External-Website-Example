@@ -1,0 +1,19 @@
+<section>
+    <header>
+        <h1>Tracking Your Ballot</h1>
+    </header>
+    <p>This site is used to track ballots from the current election in
+    Pelican County. Please enter the first few characters of your
+    ballot checking code, using the search box below. When you've
+    found your code, click the "Track Ballot" button. No private
+    information, including the contents of your ballot or selections,
+    will be available.</p>
+
+    <form>
+        <label for="code">Enter the first few characters of your ballot-tracking code: </label>
+        <input type="text" name="code" id="code" />
+        <br />
+        <input type="submit" value="Check Ballot" />
+    </form>
+    
+</section>
